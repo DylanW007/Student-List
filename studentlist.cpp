@@ -8,7 +8,7 @@ struct Student{
 };
 
 int main(){
-  char studentname;
+  //char studentname;
   int studentid;
   float studentgpa;
   
